@@ -1,0 +1,11 @@
+/* 3. Silakan buat kode CSS dengan menggunakan property font-size, color, dan dengan menggunakan !important */
+input {
+  font-size: 18px !important;
+  height: 18px !important;
+  color: #92877C !important;
+}
+
+button {
+  font-size: 30px !important;
+  color: #AF7F05 !important;
+}
